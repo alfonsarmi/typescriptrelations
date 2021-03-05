@@ -2,7 +2,7 @@
 /// <reference path="./rectangleMath.ts" />
 
 import Circle = MyMath.Circle;
-import calculateRectangle = MyMath.Rectangle.calculateRectangle;
+import calculateRectangle =  MyMath.Rectangle.calculateRectangle;
 
 console.log(Circle.PI); // Prints: 3.14
 console.log(Circle.calculateCircumference(10)); // Prints 31.42
